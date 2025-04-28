@@ -1,3 +1,5 @@
 Pipfile.lock
 .vscode/settings.json
 output/AutoFisher.exe
+core/__pycache__/
+ui/__pycache__/
